@@ -54,5 +54,5 @@ The frontend code for the password reset task application can be found in the fo
 [Frontend Code Repository](https://github.com/ArivazhaganPandiyan/reset-password-client)
 
 ## Live Site 
-[Live site - render](https://reset-password-server-x5p7.onrender.com/)https://reset-password-server-x5p7.onrender.com/)
+[Live site - render](https://reset-password-server-x5p7.onrender.com/)
 
